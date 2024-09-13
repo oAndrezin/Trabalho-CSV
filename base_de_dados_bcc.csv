@@ -1,5 +1,5 @@
 Nome,Data de Nascimento,Altura,Nacionalidade,Genero,Grupo
-Jo�o Silva,15/03/1990,1.8,Brasil,Masculino,Futebol
+João Silva,15/03/1990,1.8,Brasil,Masculino,Futebol
 Maria Santos,22/07/1985,1.65,Brasil,Feminino,Futebol
 Carlos Pereira,10/12/1988,1.75,Brasil,Masculino,Futebol
 Ana Souza,01/05/1992,1.68,Brasil,Feminino,Futebol
@@ -9,11 +9,11 @@ Marcos Oliveira,28/02/1986,1.85,Brasil,Masculino,Basquete
 Fernanda Costa,12/11/1991,1.7,Brasil,Feminino,Basquete
 Rodrigo Alves,05/06/1990,1.78,Brasil,Masculino,Basquete
 Patricia Rocha,25/12/1993,1.66,Brasil,Feminino,Basquete
-Lucas Martins,18/04/1991,1.92,Brasil,Masculino,Nata��o
-Renata Barros,23/01/1984,1.68,Brasil,Feminino,Nata��o
-Thiago Cunha,07/10/1989,1.74,Brasil,Masculino,Nata��o
-Camila Nunes,09/03/1993,1.72,Brasil,Feminino,Nata��o
-Guilherme Araújo,16/11/1995,1.86,Brasil,Masculino,Nata��o
+Lucas Martins,18/04/1991,1.92,Brasil,Masculino,Natação
+Renata Barros,23/01/1984,1.68,Brasil,Feminino,Natação
+Thiago Cunha,07/10/1989,1.74,Brasil,Masculino,Natação
+Camila Nunes,09/03/1993,1.72,Brasil,Feminino,Natação
+Guilherme Araujo,16/11/1995,1.86,Brasil,Masculino,Natação
 Beatriz Menezes,19/05/1986,1.65,Argentina,Feminino,Partido A
 Eduardo Pinto,04/07/1992,1.8,Argentina,Masculino,Partido A
 Sofia Ribeiro,21/09/1994,1.67,Argentina,Feminino,Partido A
@@ -24,8 +24,8 @@ Santiago Perez,19/12/1989,1.71,Argentina,Masculino,Partido B
 Valentina Gomez,23/03/1990,1.69,Argentina,Feminino,Partido B
 Lautaro Rodriguez,11/05/1992,1.77,Argentina,Masculino,Partido B
 Camila Sanchez,29/10/1987,1.68,Argentina,Feminino,Partido B
-Ignacio Ortega,08/01/1991,1.75,Canadá,Masculino,Partido C
-Martina Torres,22/06/1989,1.7,Canadá,Feminino,Partido C
-Lucas Fernandez,27/08/1993,1.84,Canadá,Masculino,Partido C
-Julieta Martinez,03/11/1992,1.76,Canadá,Feminino,Partido C
-Francisco Diaz,13/04/1990,1.82,Canadá,Masculino,Partido C
+Ignacio Ortega,08/01/1991,1.75,CanadÃ¡,Masculino,Partido C
+Martina Torres,22/06/1989,1.7,CanadÃ¡,Feminino,Partido C
+Lucas Fernandez,27/08/1993,1.84,CanadÃ¡,Masculino,Partido C
+Julieta Martinez,03/11/1992,1.76,CanadÃ¡,Feminino,Partido C
+Francisco Diaz,13/04/1990,1.82,CanadÃ¡,Masculino,Partido C
